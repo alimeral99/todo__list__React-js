@@ -1,0 +1,25 @@
+.List {
+  margin: 10px 15px;
+  background-color: #f0fff0;
+  padding: 5px;
+  color: gray;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+}
+
+.List__text {
+  flex: 1;
+}
+
+button {
+  margin-right: 10px;
+  background: none;
+  border: none;
+  color: gray;
+}
+
+.Icon {
+  font-size: 18px;
+  cursor: pointer;
+}
